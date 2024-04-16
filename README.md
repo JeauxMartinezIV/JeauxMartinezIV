@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JeauxMartinezIV
+- 👋 Hi, I’m Joe Martinez IV
 - 🌱 I’m currently learning how to build a data warehouse
 -
 <!---
